@@ -4,8 +4,9 @@ metadata:
   name: flask-demo
   namespace: flask-demo
   annotations:
-    traefik.ingress.kubernetes.io/router.entrypoints: web
+    kubernetes.io/ingress.class: traefik
 spec:
+  ingressClassName: traefik
   rules:
     - host: flask.localdev.me
       http:
