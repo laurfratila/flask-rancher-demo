@@ -11,7 +11,7 @@ A minimal, production-lean Flask service containerized with Docker and deployed 
 
 ---
 
-## What you’ll build & why it matters
+## What was built
 
 **What:** A small Flask API that:
 - Serves `/` returning a JSON payload
