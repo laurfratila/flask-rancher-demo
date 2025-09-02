@@ -306,5 +306,5 @@ k8s-clean:
 ---
 
 ## License
-MIT (or your choice).
+MIT 
 
