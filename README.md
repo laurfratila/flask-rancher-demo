@@ -1,4 +1,4 @@
-# Flask Rancher Demo
+# Flask Rancher Demo - Optional Homework
 
 A minimal, production-lean Flask service containerized with Docker and deployed to Kubernetes via **Rancher Desktop (k3s)**. It showcases:
 
